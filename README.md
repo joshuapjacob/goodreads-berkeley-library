@@ -23,10 +23,10 @@ Searching and streaming results...
 The pragmatic programmer : from journeyman to master
 https://berkeley.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991080851389706532&context=L&vid=01UCS_BER:UCB&lang=en&search_scope=DN_and_CI&adaptor=Local
 
-**Trust me, I'm lying : the tactics and confessions of a media manipulator**
+Trust me, I'm lying : the tactics and confessions of a media manipulator
 https://berkeley.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991000883859706532&context=L&vid=01UCS_BER:UCB&lang=en&search_scope=DN_and_CI&adaptor=Local
 
-**Rosencrantz & Guildenstern are dead**
+Rosencrantz & Guildenstern are dead
 https://berkeley.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991071720859706532&context=L&vid=01UCS_BER:UCB&lang=en&search_scope=DN_and_CI&adaptor=Local
 ```
 
