@@ -1,7 +1,5 @@
 # Goodreads Berkeley Library
-A Python script to check which books from a Goodreads "to-read" shelf are currently available to borrow from UC Berkeley's library.
-
-Built with [Selenium](https://www.selenium.dev/) and [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/) to save me from manually checking which books on my reading list are currently available.
+A Python script to check which books from a Goodreads "to-read" shelf are currently available to borrow from UC Berkeley's library. Built with [Selenium](https://www.selenium.dev/) and [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/) to save me from manually checking which books on my reading list are currently available.
 
 Also worth checking out [The Library Extension](https://www.libraryextension.com/)!
 
@@ -12,7 +10,7 @@ pip install -r requirements.txt
 Selenium uses Chrome as a driver so make sure you have that installed as well.
 
 ## Usage
-1. Goodreads no longer has a public API so you need sign in and export your library to a CSV file on [this page](https://www.goodreads.com/review/import).
+1. Goodreads no longer has a public API so you need to sign in and export your library to a CSV file on [this page](https://www.goodreads.com/review/import).
 2. Run the script as follows. 
 ```console
 python search.py goodreads_library_export.csv
