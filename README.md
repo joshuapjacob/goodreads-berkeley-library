@@ -29,7 +29,3 @@ https://berkeley.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma9910008
 Rosencrantz & Guildenstern are dead
 https://berkeley.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991071720859706532&context=L&vid=01UCS_BER:UCB&lang=en&search_scope=DN_and_CI&adaptor=Local
 ```
-
-## Issues
-- It is not fast but fast enough for a human to read the titles and make up their mind about what to read next.
-- May yield duplicate results because there are duplicates in the UC Berkeley library database.
